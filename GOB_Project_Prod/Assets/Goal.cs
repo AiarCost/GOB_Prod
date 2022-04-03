@@ -29,7 +29,8 @@ public enum GoalList{
 
     Eat,
     Sleep,
-    Bathroom
+    Bathroom,
+    Fun
 }
 
 public class Action 
@@ -37,6 +38,7 @@ public class Action
     public string name;
 
     public List<Goal> targetGoals;
+    public Transform ActionTransform;
 
     public Action(string name)
     {

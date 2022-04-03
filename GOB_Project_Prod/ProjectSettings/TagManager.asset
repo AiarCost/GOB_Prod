@@ -7,6 +7,9 @@ TagManager:
   - Eat
   - Sleep
   - Bathroom
+  - Fun
+  - Discontentment
+  - State
   layers:
   - Default
   - TransparentFX
@@ -14,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Floor
   - 
   - 
   - 
